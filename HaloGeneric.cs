@@ -10,7 +10,8 @@ namespace Tpmod5
     {
         public void SapaUser<X>(X nama)
         {
-            Console.WriteLine($"Halo, selamat pagi {nama}");
+            Console.WriteLine($"Halo,{nama}");
         }
     }
 }
+

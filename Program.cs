@@ -1,15 +1,23 @@
-﻿using Tpmod5;
+﻿using System;
+using Tpmod5;
 
 internal class Program
 {
-    private static string? nama { get; set; }
-
     public static void Main(string[] args)
     {
-        HaloGeneric halo = new HaloGeneric();
+        Console.Write("\nSiapa nama anda? ");
+        string? nama = Console.ReadLine()?.ToUpper();
 
-        Console.Write("Siapa nama anda? ");
-        nama = Console.ReadLine()?.ToUpper();
-        halo.SapaUser(nama);
+        new HaloGeneric().SapaUser(nama);
+
+        Console.Write("\nBerapa NIM anda? ");
+        long nim;
+
+        while (!long.TryParse(Console.ReadLine(), out nim))
+        {
+            Console.Write("Input tidak valid! Masukkan angka: ");
+        }
+
+        new DataGeneric<long>(nim).PrintData();
     }
 }
