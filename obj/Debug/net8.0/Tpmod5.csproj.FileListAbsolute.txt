@@ -1,0 +1,15 @@
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\bin\Debug\net8.0\Tpmod5.exe
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\bin\Debug\net8.0\Tpmod5.deps.json
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\bin\Debug\net8.0\Tpmod5.runtimeconfig.json
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\bin\Debug\net8.0\Tpmod5.dll
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\bin\Debug\net8.0\Tpmod5.pdb
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.AssemblyInfoInputs.cache
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.AssemblyInfo.cs
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.csproj.CoreCompileInputs.cache
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.sourcelink.json
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.dll
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\refint\Tpmod5.dll
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.pdb
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\Tpmod5.genruntimeconfig.cache
+C:\Users\macbookpro\source\repos\Tpmod5\Tpmod5\obj\Debug\net8.0\ref\Tpmod5.dll
